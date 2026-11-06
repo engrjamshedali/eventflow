@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 50" width="240" height="50">
+  <defs>
+    <linearGradient id="efGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4F46E5" />
+      <stop offset="100%" stop-color="#06B6D4" />
+    </linearGradient>
+  </defs>
+  <rect x="5" y="5" width="40" height="40" rx="10" fill="url(#efGrad)" />
+  <path d="M17 18 L25 18 L25 22 L21 22 L21 25 L25 25 L25 29 L21 29 L21 33 L17 33 Z" fill="#FFFFFF" />
+  <circle cx="31" cy="25" r="4" fill="#FFFFFF" />
+  <text x="56" y="32" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif" font-size="22" font-weight="800" fill="#0F172A" letter-spacing="-0.5">Event<tspan fill="#4F46E5">Flow</tspan></text>
+</svg>
+

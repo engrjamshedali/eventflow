@@ -1,0 +1,52 @@
+# Operating System Artifacts
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# IDE & Editor Settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Package Archives & Backups
+*.zip
+*.tar
+*.gz
+*.rar
+*.7z
+*.bak
+*.backup
+*.sql
+
+# Logs & Temporary Files
+*.log
+*.tmp
+*.swp
+*~
+
+# PHPUnit & Test Caches
+.phpunit.result.cache
+.phpunit.cache/
+
+# Composer & Node Dependencies
+node_modules/
+vendor/
+
+# Protected Upload Directories
+wp-content/uploads/eventflow-secure/*
+!wp-content/uploads/eventflow-secure/index.php
+
+# Environment & Local Overrides
+.env
+.env.local
+.env.*

@@ -70,11 +70,11 @@ Yes. EventFlow includes a standard `.pot` template located in `languages/eventfl
 
 == Screenshots ==
 
-1. Split-screen animated authentication portal with rate-limited login and account registration.
-2. Participant discovery dashboard showing live event cards, status badges, and registration modal.
-3. Dynamic multi-member team registration builder with real-time fee calculation.
-4. In-app zero-download payment proof inspector with SVG/Canvas zoom, pan, and rotation controls.
-5. Frontend staff command center with real-time KPI cards and HTML5 Canvas analytics charts.
+1. assets/images/screenshots/01-staff-dashboard.png - Frontend Staff Command Center with live KPI counters, interactive velocity canvas charts, and participant management table.
+2. assets/images/screenshots/02-payment-inspector.png - In-app zero-download payment proof verification inspector with zoom, 360-degree rotation, drag/pan, and transaction metadata.
+3. assets/images/screenshots/03-participant-dashboard.png - Participant discovery dashboard showing live event cards, confirmed pass voucher, and registration modal.
+4. assets/images/screenshots/04-split-screen-auth.png - Split-screen animated authentication portal with rate-limited login, account creation, and lockout defense.
+5. assets/images/screenshots/05-dynamic-team-builder.png - Dynamic multi-member team registration builder with real-time fee calculation and 7 mandatory member fields.
 
 == Changelog ==
 
@@ -110,3 +110,4 @@ Yes. EventFlow includes a standard `.pot` template located in `languages/eventfl
 
 = 5.0.2 =
 Recommended update for all users. Includes database query hardening, updated translation templates, and enhanced security verifications.
+

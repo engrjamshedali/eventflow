@@ -42,3 +42,4 @@ EventFlow integrates defense-in-depth principles:
 * **Brute-Force & Lockout Defense**: An automated transient-based security lockout disables accounts after 3 failed consecutive login attempts for a duration of 15 minutes.
 * **Strict Role-Based Access Control**: 7 custom roles isolate duties between financial evaluators, registration staff, technical teams, and participants.
 * **Protected File Storage**: User-submitted payment proofs are stored in a dedicated `wp-content/uploads/eventflow-secure/` directory with randomized hash filenames and guarded against direct file directory browsing.
+

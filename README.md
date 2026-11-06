@@ -17,6 +17,28 @@ By delivering a **standalone, zero-admin Frontend Staff Command Center** alongsi
 
 ---
 
+## 📸 Visual Dashboard Showcase
+
+### 📊 Frontend Staff Command Center & Real-Time Analytics
+[![Staff Command Center](assets/images/screenshots/01-staff-dashboard.png)](assets/images/screenshots/01-staff-dashboard.png)
+*Executive operations command center delivering live KPI counters, daily registration velocity canvas charts, category track breakdowns, and instant verification table without requiring `/wp-admin/` credentials.*
+
+<br>
+
+| 🔍 In-App Payment Proof Inspector | 🏆 Participant Discovery Dashboard |
+| :---: | :---: |
+| [![Payment Verification Inspector](assets/images/screenshots/02-payment-inspector.png)](assets/images/screenshots/02-payment-inspector.png) | [![Participant Discovery Dashboard](assets/images/screenshots/03-participant-dashboard.png)](assets/images/screenshots/03-participant-dashboard.png) |
+| *In-app zero-download receipt viewer with zoom in/out, continuous 360° rotation, drag/pan, side-by-side metadata, and 1-click approvals.* | *Attendee self-service portal displaying confirmed registration passes, dynamic rules modals, and responsive competition cards.* |
+
+<br>
+
+| 🔐 Split-Screen Authentication Portal | 👥 Dynamic Team Registration Builder |
+| :---: | :---: |
+| [![Split-Screen Authentication](assets/images/screenshots/04-split-screen-auth.png)](assets/images/screenshots/04-split-screen-auth.png) | [![Dynamic Team Registration Builder](assets/images/screenshots/05-dynamic-team-builder.png)](assets/images/screenshots/05-dynamic-team-builder.png) |
+| *Modern mint/teal card layout with geometric accents, institutional branding, rate-limited login, and brute-force lockout defense.* | *Dynamic "+ Add Member" card generator collecting 7 mandatory fields per member, intra-team duplicate detection, and live fee calculation.* |
+
+---
+
 ## 🚀 Key Feature Modules
 
 ### 1. Full-Page Standalone Web App Mode (Theme Bypass)

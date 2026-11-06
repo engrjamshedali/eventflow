@@ -50,3 +50,4 @@ wp-content/uploads/eventflow-secure/*
 .env
 .env.local
 .env.*
+

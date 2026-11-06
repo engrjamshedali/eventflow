@@ -85,3 +85,4 @@ Feature requests are always welcomed! Please open an issue with:
 * Use the text domain `'eventflow'` across all localized strings.
 * Use standard WordPress localization functions: `__()`, `_e()`, `esc_html__()`, `esc_attr__()`, `_n()`.
 * If adding new strings, update the `languages/eventflow.pot` template file.
+

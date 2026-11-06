@@ -68,3 +68,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Relational database schema with 12 custom tables.
 - Solo and multi-member team registration with 7 mandatory participant details.
 - Bank Alfalah, IBFT/1Link, Raast, JazzCash, Easypaisa payment configurations.
+
